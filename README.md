@@ -19,6 +19,7 @@ The idea… Isolate the task of the mixer… create an object to handle samples,
 2) The Mixer handles Multiple Samples
 3) The controller handles MULTIPLE MIXERS!
 
+
 SO NOW;
 The user tells the controller “I’m working on 4 bars”. The controller tells the Mixers, the Mixers tells the Samplers. The Samplers trims or duplicates the loop. Beats per minute… the controller relays to mixers and mixers tell the Samplers. Etc Etc Etc.
 On call the controller wants to play data… calls the mixers in order (by sections). The mixer calls each of its Samplers which streams the data (at the proper bpm) to the mixer. The mixer mixes and streams the samples to the control which Plays, Saves or Master the data. It calls the next mixer which repeats the process.
@@ -45,9 +46,12 @@ In one of the videos you can see on the links, nHarmony faced a well known DAWS 
 
 
 BETA TESTER
+
 A full Beta test copy of nHarmony software, will be uploaded as a zip file today (06/19/2017). Its light and fast, and we have been testing it with flash drives on systems. The only bog time is it when you click on samples from a flash... (smh - slow 2.0 flash drives - lol). Its in a zip. Fill free to try it out. Just move it out to a flash or copy it to a temp space on a drive. It doesn't require installation on this test version.
 A fresh rewrite of the library will be uploaded here this week. This is great. It allows me to clean up issues.
+
 OPEN SOURCE LICENSE
+
 Okay... Its really annoying sometimes with open-source libraries to make a DLL with other DLLs that have to be loaded. I'm not really feeling that. You can copy it inside your code. WHAT I DO WANT is this; I put this library up to benefit developers - if you as a developer receiving this benefit make improvements please share that benefit with us. Any one knows which license is appropriate?
 Additional Information, Pictures Videos etc. can be obtained;
 
