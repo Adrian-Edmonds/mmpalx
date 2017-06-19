@@ -1,4 +1,4 @@
-# mmpalx
+mmpalx
 Multi-mixer Music Production Audio Library (x=for opensource version)
 
 Most of the information has been placed in the "Wiki"... the wiki has pictures... LOL... but still..
@@ -37,5 +37,26 @@ IT STARTED OUT… as a project to make a professional DAWs application more prod
 
 IT BECAME POWERFUL! It manipulates loops on the fly.  
  The interface is now so clean and intelligent, ANYONE can make professional quality music. Users can be Moms, Pops, Teen, Hobbyist as well as Music STUDENTS, Instructors and Professional Producers
+
+IT WAS CHALLENGED!
+In one of the videos you can see on the links, nHarmony faced a well known DAWS app. The challenge was to load 5 loops for verse, 5 loops for hook. Make the song 3 hooks 3 verses, with a intro. The Multi-Mixer interface CREATED the song in 52 seconds. While the TRACK interface barely finished the first verse.
+
+
+BETA TESTER
+A full Beta test copy of nHarmony software, will be uploaded as a zip file today (06/19/2017). Its light and fast, and we have been testing it with flash drives on systems. The only bog time is it when you click on samples from a flash... (smh - slow 2.0 flash drives - lol). Its in a zip. Fill free to try it out. Just move it out to a flash or copy it to a temp space on a drive. It doesn't require installation on this test version.
+A fresh rewrite of the library will be uploaded here this week. This is great. It allows me to clean up issues.
+OPEN SOURCE LICENSE
+Okay... Its really annoying sometimes with open-source libraries to make a DLL with other DLLs that have to be loaded. I'm not really feeling that. You can copy it inside your code. WHAT I DO WANT is this; I put this library up to benefit developers - if you as a developer receiving this benefit make improvements please share that benefit with us. Any one knows which license is appropriate?
+Additional Information, Pictures Videos etc. can be obtained;
+
+Facebook; https://www.facebook.com/nHarmonySoftware
+
+Web; https://nHarmonySoftware.wixsite.com/home
+
+Youtube; https://www.youtube.com/channel/UCdwhsDuuFKiLiuHq-SY5mog
+
+Kickstarter (unfortunately we started pushing the campaign late- 14 days in ); 
+https://www.kickstarter.com/projects/2094324241/nharmony-simplfied-powerful-music-production-daws
+
  
 
